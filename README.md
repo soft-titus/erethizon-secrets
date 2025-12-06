@@ -1,6 +1,6 @@
-# Cluster Secrets
+# Erethizon Secrets
 
-Secure storage and management of secrets for the Kubernetes Cluster.
+Secure storage and management of secrets for the Erethizon Kubernetes Cluster.
 
 All secrets must be encrypted before being committed to the Git repository.
 
